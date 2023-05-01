@@ -1,8 +1,5 @@
 # Website Template 網站模板 13
 
-- [Github.io](https://pardnchiu.github.io/website-template-13/)
-- [Github.com](https://github.com/pardnchiu/website-template-13/)
-- [MIT LICENSE](./LICENSE)
 - Html, Css/Sass, Javascript
 - [Font Awesome 6](https://fontawesome.com/v6/search)
 
@@ -17,8 +14,8 @@
 ***
 
 | Preview |
-| --- |
-| ![Website Template 網站模板 13](./image/index.jpg) |
+|---|
+| ![Website Template 網站模板 13 預覽](./image/index.jpg) |
 
 ***
 
